@@ -8,7 +8,7 @@ sites:
   - name: Joplin
     url: https://joplin.fredhs.net
   - name: Minio
-    url: https://minio.fredhs.net
+    url: https://console.minio.fredhs.net
   - name: Privatebin
     url: https://bin.fredhs.net
   - name: Harbor ipv6
