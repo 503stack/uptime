@@ -1,7 +1,7 @@
-url: https://minio.fredhs.net
-status: down
-code: 403
-responseTime: 340
-lastUpdated: 2025-05-29T11:20:47.530Z
+url: https://console.minio.fredhs.net
+status: up
+code: 200
+responseTime: 447
+lastUpdated: 2025-05-29T11:28:01.517Z
 startTime: 2025-05-29T11:20:46.985Z
 generator: Upptime <https://github.com/upptime/upptime>
